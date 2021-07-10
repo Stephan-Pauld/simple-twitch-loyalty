@@ -1,0 +1,16 @@
+{
+  "name": "twitch-loyalty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "points.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mariadb": "^2.5.3"
+  }
+}
